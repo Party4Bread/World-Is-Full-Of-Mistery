@@ -9,3 +9,5 @@
 [Some free books](https://www.makeuseof.com/tags/longform-guide/)
 
 [Some CheatSheets](https://www.makeuseof.com/tags/cheat-sheet/)
+
+[color tempurture](https://scipython.com/blog/converting-a-spectrum-to-a-colour/)
