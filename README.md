@@ -15,3 +15,5 @@
 [으-섬 CP from stanford](http://web.stanford.edu/class/cs97si/)
 
 [으-섬 Courses](https://github.com/prakhar1989/awesome-courses#algorithms)
+
+[caesum contest handbook](http://www.caesum.com/handbook/contents.htm)
