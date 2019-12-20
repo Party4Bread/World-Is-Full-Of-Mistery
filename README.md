@@ -19,3 +19,5 @@
 [caesum contest handbook](http://www.caesum.com/handbook/contents.htm)
 
 [뭔가 음악 관련된 교수님 페이지](https://staff.aist.go.jp/m.goto/)
+
+[자동 음악 자막?](http://textalive.jp/)
